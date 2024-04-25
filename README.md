@@ -1,2 +1,2 @@
 # python_selenium_course
-Autotests UI on python with selenium
+Autotests UI on Python with Selenium.
